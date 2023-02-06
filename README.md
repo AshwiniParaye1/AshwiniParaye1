@@ -23,4 +23,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwiniparaye1&show_icons=true&locale=en&layout=compact" alt="ashwiniparaye1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwiniparaye1&" alt="ashwiniparaye1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwiniparaye1&" alt="ashwiniparaye1" /></p><br>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=AshwiniParaye1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AshwiniParaye1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniParaye1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
