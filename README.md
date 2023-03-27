@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *ashwiniparaye9309@gmail.com*
 
-- 📄 Know about my experiences [shorturl.at/KLPW7](shorturl.at/KLPW7)
+<!-- - 📄 Know about my experiences [shorturl.at/KLPW7](shorturl.at/KLPW7) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
