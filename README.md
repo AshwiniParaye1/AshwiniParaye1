@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning _More of Javascript_
 
-- 👨‍💻 All of my projects are available at [portfolio](https://ashwini-paraye-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [my_portfolio](https://ashwini-paraye-portfolio.vercel.app/)
 
 - 💬 Ask me about _React, Javascript , Devops_
 
