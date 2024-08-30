@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AshwiniParaye1&hide_border=true&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshwiniParaye1)](https://git.io/streak-stats) <br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AshwiniParaye1" alt="GitHub Streak" /></a> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniParaye1&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
