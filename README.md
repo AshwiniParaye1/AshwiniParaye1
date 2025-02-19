@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning _More of Javascript_
 
-- 👨‍💻 All of my projects are available at [my_portfolio](https://ashwiniparaye.vercel.app/)
-
 - 💬 Ask me about React, Javascript, NextJS 
 
 - 📫 How to reach me *ashwiniparaye9309@gmail.com*
