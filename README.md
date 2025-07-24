@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://ashwini-paraye.vercel.app/](https://ashwini-paraye.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ashwiniparaye.in/](https://ashwiniparaye.in/)
 
 - 📝 I regularly write articles on [https://medium.com/@ashwini-paraye](https://medium.com/@ashwini-paraye)
 
